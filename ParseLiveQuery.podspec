@@ -18,5 +18,5 @@ Pod::Spec.new do |s|
   
   s.dependency 'Parse'
   s.dependency 'Bolts-Swift'
-  s.dependency 'SocketRocket'
+  s.dependency 'SocketRocket', '0.5.1'
 end
